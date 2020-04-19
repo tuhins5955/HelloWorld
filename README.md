@@ -1,2 +1,2 @@
 # HelloWorld
-Testing a new project
+Testing a new demo project
